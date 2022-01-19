@@ -3,7 +3,7 @@
 I'm enthusiastic to explore the connection between environmental exposure and health inequity. Currently, I'm a master student in Environmental Health Sciences at UCLA Fielding School of Public Health. Find me on [![LinkedIn][1]][1]
 
 <!-- Icons -->
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to social media accounts -->
 [1]: https://www.linkedin.com/in/lsyang/
