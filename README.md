@@ -1,6 +1,6 @@
 ### Hello! This is Lin-Syuan Yang.
 
-I'm a first-year master student in the Environmental Health Sciences at fielding School of Public Health, UCLA.
+I'm a first-year master student in the Environmental Health Sciences at Fielding School of Public Health, UCLA.
 
 <!--
 **lsyang99/lsyang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
