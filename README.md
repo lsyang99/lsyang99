@@ -6,7 +6,7 @@ I'm enthusiastic to explore the connection between environmental exposure and he
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to social media accounts -->
-[2]: www.linkedin.com/in/lsyang
+[2]: www.linkedin.com/in/lsyang/
 <!--
 **lsyang99/lsyang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
