@@ -1,12 +1,12 @@
 ### Hello! This is Lin-Syuan Yang.
 
-I'm enthusiastic to explore the connection between environmental exposure and health inequity. Currently, I'm a master student in Environmental Health Sciences at UCLA Fielding School of Public Health. Find me on [![LinkedIn][3.2]][3]
+I'm enthusiastic to explore the connection between environmental exposure and health inequity. Currently, I'm a master student in Environmental Health Sciences at UCLA Fielding School of Public Health. Find me on [![LinkedIn][1]][1]
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1]: https://similarpng.com/download-png/linkedin-logo-transparent-png/#getdownload
 
 <!-- Links to social media accounts -->
-[2]: https://www.linkedin.com/in/lsyang/
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 <!--
 **lsyang99/lsyang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
