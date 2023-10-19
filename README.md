@@ -1,6 +1,7 @@
-### Hello! I'm Lin-Syuan Yang!
+### Hello! I'm Lin!
 
-I'm enthusiastic to explore the connection between environmental exposure and health inequity. Currently, I'm a master student in Environmental Health Sciences at UCLA Fielding School of Public Health. 
+I'm enthusiastic about exploring the link between environmental exposure and health inequity. As an air quality scientist, I focus on environmental data management, air permitting, and compliance. I specialize in analyzing and managing air quality data, particularly in assessing air monitoring data and air modeling estimations using spatial analysis and statistical methods to understand air pollution's impact on health.
+
 <!--
 **lsyang99/lsyang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
